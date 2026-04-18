@@ -18,10 +18,6 @@ Trabalhar etapas completas de análise de dados: limpeza, transformação e mode
 - Treinamento de modelos
 - Avaliação de desempenho
 
-## 🤖 Modelos
-- Regressão Logística
-- Random Forest
-- MLPClassifier
 
 ## ⚠️ Aviso
 Projeto desenvolvido para prática e aprendizado na área de dados.
